@@ -1,4 +1,4 @@
-data_path = '../data/';
+data_path = '../data/wiki';
 % set parameters
 params = struct();
 
