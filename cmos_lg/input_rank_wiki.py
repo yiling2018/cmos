@@ -2,7 +2,7 @@ import numpy as np
 import scipy.io
 import os
 
-path = 'E:\\Datasets\\wiki\\my\\'
+path = '../data/wiki'
 text_size = 8
 alog_size = 93
 log_size = 151
